@@ -20,7 +20,7 @@ This system is a comprehensive solution for handling business loan applications.
 
 `docker-compose up --build`
 
-2. Access the frontend at `http://localhost:3000` and the backend at `http://localhost:3001`.
+2. Access the frontend at `http://localhost:3000` and the backend at `http://localhost:5000`.
 
 ### Usage
 Fill out the loan application form on the frontend. The data will be processed by the backend, applying pre-defined rules before sending to the decision engine.
